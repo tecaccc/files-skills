@@ -1,0 +1,14 @@
+{
+  "name": "files-skills",
+  "owner": {
+    "name": "tecaccc",
+    "url": "https://github.com/tecaccc/files-skills"
+  },
+  "plugins": [
+    {
+      "name": "files-skills",
+      "source": "./",
+      "description": "Personal file management skills: organize, rename, and clean up your files with consistent conventions."
+    }
+  ]
+}

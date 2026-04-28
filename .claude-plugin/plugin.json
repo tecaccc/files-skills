@@ -1,0 +1,10 @@
+{
+  "name": "files-skills",
+  "description": "A collection of Claude Code skills for personal file management, including file archiving, naming conventions, batch renaming, and cleanup.",
+  "author": {
+    "name": "files-skills contributors",
+    "url": "https://github.com/tecaccc/files-skills"
+  },
+  "version": "1.0.0",
+  "license": "MIT"
+}
